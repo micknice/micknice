@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @micknice
-- 👀 I’m interested in AI and its application in education
-- 🌱 I’m currently learning JS and Python
+- 👋 Hi, I’m Mike
+- 👀 I’m interested in AI, Data and their applications in the education space
+- 🌱 I’m currently learning Scikit and Pytorch
 - 📫 How to reach me discord: nurishment#5365
 
 <!---
