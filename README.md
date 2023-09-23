@@ -1,8 +1,47 @@
-- 👋 Hi, I’m Mike.
-- 👀 I’m interested in AI, Data, UX and their applications in the education space.
-- 🌱 I’m currently learning Go.
+# Contents
 
-<!---
-micknice/micknice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+JavaScript
+
+Full Stack:
+
+The Tardigrade - News Site
+
+Simulation:
+
+Back end:
+NC-News: News Server
+- Breakdown Sim
+
+TypeScript
+
+
+Cash Overflow - game of chance
+
+
+
+
+
+Game:
+Memeosphere - Turn Based Battler
+
+
+
+
+
+
+Any% - Weight Training 
+Machine Learning:
+
+Linear model / FFT
+Drum Classifier
+
+Deep Learning / NN
+Skin Scan - Skin Cancer Classifier
+
+
+
+
+
