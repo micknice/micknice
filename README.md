@@ -12,7 +12,7 @@
 
 - [Breakdown Sim](https://github.com/micknice/AA_breakdown_simulator)
 
-- [NC-News: News Server](#nc-news-news-server)
+- [NC-News: News Server](https://github.com/micknice/nc-news-back-end)
 
 - [Drum Classifier](https://github.com/micknice/drum-sample-classifier)
 
