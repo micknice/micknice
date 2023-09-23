@@ -17,13 +17,14 @@
 ##### Game:
 - Turn Based Battler
 
+----------
 #### TypeScript
 - Game of Chance
-
+----------
 #### Dart
+----------
 
 ##### Full Stack
-
 - Weight Training Tracker 
 
 
