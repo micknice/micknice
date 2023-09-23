@@ -3,37 +3,37 @@
 #### JavaScript
 -----------
 ##### Full Stack:
--
-- The Tardigrade - News Site
+- News Site
 
 ##### Simulation:
-
-Back end:
-NC-News: News Server
 - Breakdown Sim
 
-TypeScript
+##### Back end:
+- NC-News: News Server
+
+##### Machine Learning:
+-Drum Classifier
+
+##### Game:
+- Turn Based Battler
+
+#### TypeScript
+- Game of Chance
+
+#### Dart
+
+##### Full Stack
+
+- Weight Training Tracker 
 
 
-Cash Overflow - game of chance
-
-
-
-
-
-Game:
-Memeosphere - Turn Based Battler
 
 
 
 
 
 
-Any% - Weight Training 
-Machine Learning:
 
-Linear model / FFT
-Drum Classifier
 
 Deep Learning / NN
 Skin Scan - Skin Cancer Classifier
