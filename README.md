@@ -3,10 +3,10 @@
 ### Python
 
 #### Computer Vision
-- [PyTorch CNN Image Classifier](#PyTorch CNN Image Classifier)
+- [PyTorch CNN Image Classifier](#pytorch-cnn-image-classifier)
 
 #### Back End
-- [Inference MicroService](Inference MicroService)
+- [Inference MicroService](#inference-microservice)
 
 ### JavaScript
 
@@ -16,7 +16,7 @@
 #### Simulation
 - [Breakdown Sim](#breakdown-sim)
 
-#### Back end
+#### Back End
 - [NC-News: News Server](#nc-news-news-server)
 
 #### Machine Learning
@@ -44,8 +44,8 @@
 
 
 
-Deep Learning / NN
-Skin Scan - Skin Cancer Classifier
+
+
 
 
 
