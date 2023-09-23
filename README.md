@@ -1,15 +1,12 @@
 # Contents
 
+#### JavaScript
+-----------
+##### Full Stack:
+-
+- The Tardigrade - News Site
 
-
-
-JavaScript
-
-Full Stack:
-
-The Tardigrade - News Site
-
-Simulation:
+##### Simulation:
 
 Back end:
 NC-News: News Server
