@@ -8,7 +8,7 @@
 
 ### JavaScript
 
-- [News Site]((https://github.com/micknice/the-tardigrade))
+- [News Site](https://github.com/micknice/the-tardigrade)
 
 - [Breakdown Sim](https://github.com/micknice/AA_breakdown_simulator)
 
