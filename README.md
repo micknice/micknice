@@ -2,37 +2,31 @@
 
 ### Python
 
-#### Computer Vision
 - [PyTorch CNN Image Classifier](#pytorch-cnn-image-classifier)
 
-#### Back End
-- [Inference MicroService](#inference-microservice)
+- [Inference MicroService](https://github.com/micknice/skin-classification-server)
 
 ### JavaScript
 
-#### Full Stack
-- [News Site](#news-site)
+- [News Site]((https://github.com/micknice/the-tardigrade))
 
-#### Simulation
-- [Breakdown Sim](#breakdown-sim)
+- [Breakdown Sim](https://github.com/micknice/AA_breakdown_simulator)
 
-#### Back End
 - [NC-News: News Server](#nc-news-news-server)
 
-#### Machine Learning
-- [Drum Classifier](#drum-classifier)
+- [Drum Classifier](https://github.com/micknice/drum-sample-classifier)
 
-#### Game
-- [Turn Based Battler](#turn-based-battler)
+- [Turn Based Battler](https://github.com/micknice/memeosphere)
 
 ### TypeScript
 
-- [Game of Chance](#game-of-chance)
+- [Game of Chance](https://github.com/micknice/scratch-overflow)
 
 ### Dart
 
-#### Full Stack
-- [Weight Training Tracker](#weight-training-tracker)
+- [Weight Training Tracker](https://github.com/micknice/any_percent_flutter_app)
+  
+- [Natural Ventilation Calculator Mobile App](https://github.com/micknice/natural-ventilation-calculator-app)
 
 
 
