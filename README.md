@@ -1,31 +1,31 @@
-# Contents
+## Contents
 
-#### JavaScript
------------
-##### Full Stack:
-- News Site
+### JavaScript
 
-##### Simulation:
-- Breakdown Sim
+#### Full Stack
+- [News Site](#news-site)
 
-##### Back end:
-- NC-News: News Server
+#### Simulation
+- [Breakdown Sim](#breakdown-sim)
 
-##### Machine Learning:
--Drum Classifier
+#### Back end
+- [NC-News: News Server](#nc-news-news-server)
 
-##### Game:
-- Turn Based Battler
+#### Machine Learning
+- [Drum Classifier](#drum-classifier)
 
-----------
-#### TypeScript
-- Game of Chance
-----------
-#### Dart
-----------
+#### Game
+- [Turn Based Battler](#turn-based-battler)
 
-##### Full Stack
-- Weight Training Tracker 
+### TypeScript
+
+- [Game of Chance](#game-of-chance)
+
+### Dart
+
+#### Full Stack
+- [Weight Training Tracker](#weight-training-tracker)
+
 
 
 
