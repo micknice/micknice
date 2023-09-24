@@ -26,7 +26,7 @@
 
 - [Weight Training Tracker](https://github.com/micknice/any_percent_flutter_app) - Weight training session logger/tracker mobile app with user login and tracking visualisation. - ___Dart, Flutter, Firebase, BLoC.___
   
-- [Natural Ventilation Calculator Mobile App](https://github.com/micknice/natural-ventilation-calculator-app) - Simple natural ventilation calculator mobile app. Saving and summing of room values by job. - ___Dart, Flutter, BLoC.___ 
+- [Natural Ventilation Calculator Mobile App](https://github.com/micknice/natural-ventilation-calculator-app) - Natural ventilation calculator mobile app.  - ___Dart, Flutter, BLoC.___ 
 
 
 
