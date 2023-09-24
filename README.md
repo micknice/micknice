@@ -14,7 +14,7 @@
 
 - [NC-News: News Server](https://github.com/micknice/nc-news-back-end)
 
-- [Drum Classifier](https://github.com/micknice/drum-sample-classifier)
+- [Drum Sample Classifier](https://github.com/micknice/drum-sample-classifier)
 
 - [Turn Based Battler](https://github.com/micknice/memeosphere)
 
