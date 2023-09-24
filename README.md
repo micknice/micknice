@@ -8,11 +8,11 @@
 
 ### JavaScript
 
-- [News Site](https://github.com/micknice/the-tardigrade)
+- [News Site Front End](https://github.com/micknice/the-tardigrade)
+
+- [News Site Back End](https://github.com/micknice/nc-news-back-end)
 
 - [Breakdown Sim](https://github.com/micknice/AA_breakdown_simulator)
-
-- [NC-News: News Server](https://github.com/micknice/nc-news-back-end)
 
 - [Drum Sample Classifier](https://github.com/micknice/drum-sample-classifier)
 
