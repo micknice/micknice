@@ -1,10 +1,5 @@
 ## Contents
 
-### Python
-
-- [PyTorch CNN Image Classifier](#pytorch-cnn-image-classifier) - Training loop for skin cancer classifier. - ___Python, PyTorch, HAM10000 dataset.___
-
-- [Inference MicroService](https://github.com/micknice/skin-classification-server) - Inference server microservice for trained skin cancer classifier. - ___Python, PyTorch, Flask.___
 
 ### JavaScript
 
@@ -21,6 +16,12 @@
 ### TypeScript
 
 - [Game of Chance](https://github.com/micknice/scratch-overflow) - Scratch card style instant win game themed around the Stack Overflow 2023 developer survey. - ___TypeScript, Next, React.___
+
+### Python
+
+- [PyTorch CNN Image Classifier](#pytorch-cnn-image-classifier) - Training loop for skin cancer classifier. - ___Python, PyTorch, HAM10000 dataset.___
+
+- [Inference MicroService](https://github.com/micknice/skin-classification-server) - Inference server microservice for trained skin cancer classifier. - ___Python, PyTorch, Flask.___
 
 ### Dart
 
