@@ -15,7 +15,7 @@
 
 ### TypeScript
 
-- [Game of Chance](https://github.com/micknice/scratch-overflow) - Scratch card style instant win game themed around the Stack Overflow 2023 developer survey. - ___TypeScript, Next, React.___
+- [Game of Chance](https://github.com/micknice/scratch-overflow) - Scratch card style instant win game themed around the Stack Overflow 2023 dev survey. - ___TypeScript, Next, React.___
 
 ### Python
 
