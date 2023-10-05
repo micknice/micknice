@@ -7,7 +7,7 @@
 
 - [News Site Back End](https://github.com/micknice/nc-news-back-end)  - Back end for news and projects site. - ___JavaScript, Express, PostgreSQL, Jest.___
 
-- [Turn Based Battler](https://github.com/micknice/memeosphere) - Turn based battler with stat modifying card mechanics. - ___JavaScript, Next, React.___
+- [Turn Based Battler](https://github.com/micknice/memeosphere) - Turn based battler with stat modifying card mechanics. - ___JavaScript, Next, React, MobX.___
   
 - [AA Breakdown Simulator](https://github.com/micknice/AA_breakdown_simulator) - Simulation of automotive breakdowns, patrol allocation and patrol pathing. - ___JavaScipt, Bing Maps API.___
 
