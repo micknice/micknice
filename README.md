@@ -5,7 +5,7 @@
 
 - [News Site Front End](https://github.com/micknice/the-tardigrade) - Front end for single page news and projects site with social features. - ___JavaScipt, Next, React.___
 
-- [News Site Back End](https://github.com/micknice/nc-news-back-end)  - Back end for news and projects site. - ___JavaScript, Express, PostgreSQL.___
+- [News Site Back End](https://github.com/micknice/nc-news-back-end)  - Back end for news and projects site. - ___JavaScript, Express, PostgreSQL, Jest.___
 
 - [Turn Based Battler](https://github.com/micknice/memeosphere) - Turn based battler with stat modifying card mechanics. - ___JavaScript, Next, React.___
   
