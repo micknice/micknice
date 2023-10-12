@@ -4,6 +4,7 @@
 ### JavaScript
 
 - [News Site Front End](https://github.com/micknice/the-tardigrade) - Front end for single page news and projects site with social features. - ___JavaScipt, Next, React.___
+https://github.com/micknice/micknice/assets/107580574/bf57e0b0-9852-42a0-bc07-3db38fde29a9
 
 - [News Site Back End](https://github.com/micknice/nc-news-back-end)  - Back end for news and projects site. - ___JavaScript, Express, PostgreSQL, Jest.___
 
