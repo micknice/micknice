@@ -33,7 +33,7 @@
   
 ### Java
 
-- [E-commerce site back end]([https://github.com/micknice/any_percent_flutter_app](https://github.com/micknice/e-commerce-be)) - Back end for e-commerce site. - ___Java, Spring Boot, Hibernate, PostgreSQL, JUnit.___
+- [E commerce site back end]([https://github.com/micknice/any_percent_flutter_app](https://github.com/micknice/e-commerce-be)) - Back end for e-commerce site. - ___Java, Spring Boot, Hibernate, PostgreSQL, JUnit.___
   
 
 
