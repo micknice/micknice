@@ -15,7 +15,7 @@
 
 ### TypeScript
 
-- [E-Commerce Site Front End]([https://github.com/micknice/scratch-overflow](https://github.com/micknice/e-commerce-fe)) - Front end for e-commerce site. - ___TypeScript, Next, React.___
+- [E-Commerce Site Front End](https://github.com/micknice/e-commerce-fe) - Front end for e-commerce site. - ___TypeScript, Next, React.___
 - 
 - [Game of Chance](https://github.com/micknice/scratch-overflow) - Scratch card style instant win game themed around the Stack Overflow 2023 dev survey. - ___TypeScript, Next, React.___
 
