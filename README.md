@@ -1,8 +1,7 @@
 # Contents
 
 
-## News Site - Full Stack - JS
-
+## News Site - Full Stack - 
 
 - [Front End](https://github.com/micknice/the-tardigrade) - Front end for single page news and projects site with social features. - ___JavaScipt, Next, React.___
   
