@@ -31,15 +31,10 @@
   
 - [Natural Ventilation Calculator Mobile App](https://github.com/micknice/natural-ventilation-calculator-app) - Natural ventilation calculator mobile app.  - ___Dart, Flutter, BLoC.___
   
-### Dart
-
-- [Weight Training Tracker](https://github.com/micknice/any_percent_flutter_app) - Weight training session logger/tracker mobile app with data visualisation. - ___Dart, Flutter, Firebase, BLoC.___
-  
-- [Natural Ventilation Calculator Mobile App](https://github.com/micknice/natural-ventilation-calculator-app) - Natural ventilation calculator mobile app.  - ___Dart, Flutter, BLoC.___
   
 ### Java
 
-- [E commerce site back end]([https://github.com/micknice/any_percent_flutter_app](https://github.com/micknice/e-commerce-be)) - Back end for e-commerce site. - ___Java, Spring Boot, Hibernate, PostgreSQL, JUnit.___
+- [E commerce site back end](https://github.com/micknice/e-commerce-be) - Back end for e-commerce site. - ___Java, Spring Boot, Hibernate, PostgreSQL, JUnit.___
   
 
 
