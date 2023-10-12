@@ -3,6 +3,7 @@
 
 ## News Site - Full Stack - JS
 
+
 - [Front End](https://github.com/micknice/the-tardigrade) - Front end for single page news and projects site with social features. - ___JavaScipt, Next, React.___
   
 - [Back End](https://github.com/micknice/nc-news-back-end)  - Back end for news and projects site. - ___JavaScript, Express, PostgreSQL, Jest.___
@@ -33,7 +34,7 @@ https://github.com/micknice/micknice/assets/107580574/ba1f543e-b4b5-40a9-bb2d-c0
   
 - [Game of Chance](https://github.com/micknice/scratch-overflow) - Scratch card style instant win game themed around the Stack Overflow 2023 dev survey. - ___TypeScript, Next, React.___
 
-## Python
+## Skin Cancer Detection App - Full Stack - JS/Python
 
 - [PyTorch CNN Image Classifier](#pytorch-cnn-image-classifier) - Training loop for skin cancer classifier. - ___Python, PyTorch, HAM10000 dataset.___
 
