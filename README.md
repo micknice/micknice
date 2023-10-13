@@ -17,7 +17,11 @@ https://github.com/micknice/micknice/assets/107580574/ba1f543e-b4b5-40a9-bb2d-c0
 
 ## AA Breakdown Simulator - Full Stack - JS/TS
   
-- [AA Breakdown Simulator](https://github.com/micknice/AA_breakdown_simulator) - Simulation of automotive breakdowns, patrol allocation and patrol pathing. - ___JavaScipt, Bing Maps API.___
+- [Back End](https://github.com/micknice/AA_breakdown_simulator) - Simulation of automotive breakdowns, patrol allocation and patrol pathing. - ___JavaScipt, Bing Maps API, PostgreSQL, SocketI).___
+  
+- [Front End](https://github.com/micknice/AA_breakdown_simulator) - Basic GUI for simulation showing pathing, patrol and breakdown details. - ___TypeScipt, Next, React, SocketIO.___
+
+https://github.com/micknice/micknice/assets/107580574/c3d00230-16bf-4304-95b5-92f7121ccb50
 
 ## Drum Sample Classifier - Machine Learning - JS
 
@@ -32,6 +36,8 @@ https://github.com/micknice/micknice/assets/107580574/ba1f543e-b4b5-40a9-bb2d-c0
 ## Instant Win Game - Front End - TS
   
 - [Game of Chance](https://github.com/micknice/scratch-overflow) - Scratch card style instant win game themed around the Stack Overflow 2023 dev survey. - ___TypeScript, Next, React.___
+ 
+- [Live Demo](https://singular-manatee-cfe23a.netlify.app/) - Live Demo of game. - ___Netlify.___
 
 ## Skin Cancer Detection App - Full Stack - JS/Python
 
