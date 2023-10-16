@@ -7,7 +7,7 @@
   
 - [Back End](https://github.com/micknice/nc-news-back-end)  - Back end for news and projects site. - ___JavaScript, Express, PostgreSQL, Jest.___
   
-- [Live Site](https://github.com/micknice/nc-news-back-end) - Deployed site. - ___Netlify, Render.___
+- [Live Site](https://github.com/micknice/nc-news-back-end) - Deployed site. - ___Vercel, Render.___
 
 https://github.com/micknice/micknice/assets/107580574/ba1f543e-b4b5-40a9-bb2d-c03889310ae2
 
