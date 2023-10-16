@@ -30,8 +30,9 @@ https://github.com/micknice/micknice/assets/107580574/51156682-6a77-4693-a1d3-d9
   
 - [Live Site](https://main.d2lr9qljwqxiia.amplifyapp.com/) - Back end for skin cancer detection SPA. - ___AWS.___
 
-![Project Architecture](https://github.com/micknice/micknice/assets/107580574/f7f2a2bb-e03b-4bc7-8801-16df4153f840)
+https://github.com/micknice/micknice/assets/107580574/20326a75-ba15-4adc-b095-cc3e3e33f38b
 
+![Project Architecture](https://github.com/micknice/micknice/assets/107580574/f7f2a2bb-e03b-4bc7-8801-16df4153f840)
 
 ## AA Breakdown Simulator - Full Stack - Solo Project - JS/TS
   
@@ -46,6 +47,8 @@ https://github.com/micknice/micknice/assets/107580574/c3d00230-16bf-4304-95b5-92
 - [Game of Chance](https://github.com/micknice/scratch-overflow) - Scratch card style instant win game themed around the Stack Overflow 2023 dev survey. - ___TypeScript, Next, React, Tailwind.___
  
 - [Live Demo](https://singular-manatee-cfe23a.netlify.app/) - Live Demo of game. - ___Netlify.___
+
+https://github.com/micknice/micknice/assets/107580574/a2f84a29-fe32-4d74-9ead-365a313fcd4d
 
 ## E-Commerce Site - Full Stack - Solo Project - Java/TS
 
