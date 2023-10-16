@@ -51,7 +51,7 @@ https://github.com/micknice/micknice/assets/107580574/c3d00230-16bf-4304-95b5-92
   
 - [Live Site](https://main.d2lr9qljwqxiia.amplifyapp.com/) - Back end for skin cancer detection SPA. - ___AWS.___
 
-[Project Architecture](https://github.com/micknice/micknice/assets/107580574/f7f2a2bb-e03b-4bc7-8801-16df4153f840)
+![Project Architecture](https://github.com/micknice/micknice/assets/107580574/f7f2a2bb-e03b-4bc7-8801-16df4153f840)
 
 
 ## Weight Training Tracker Mobile App - Full Stack - Solo Project - Dart
