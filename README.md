@@ -3,7 +3,7 @@
 
 ## News Site - Full Stack - Solo Project - JS
 
-- [Front End](https://github.com/micknice/the-tardigrade) - Front end for single page news and projects site with social features. - ___JavaScipt, Next, React, Tailwind.___
+- [Front End](https://github.com/micknice/the-tardigrade) - Front end for news and projects SPA with social features. - ___JavaScipt, Next, React, Tailwind.___
   
 - [Back End](https://github.com/micknice/nc-news-back-end)  - Back end for news and projects site. - ___JavaScript, Express, PostgreSQL, Jest.___
   
