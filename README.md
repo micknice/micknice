@@ -44,6 +44,12 @@ https://github.com/micknice/micknice/assets/107580574/c3d00230-16bf-4304-95b5-92
 - [PyTorch CNN Image Classifier](#pytorch-cnn-image-classifier) - Training loop for skin cancer classifier. - ___Python, PyTorch, HAM10000 dataset.___
 
 - [Inference MicroService](https://github.com/micknice/skin-classification-server) - Inference server microservice for trained skin cancer classifier. - ___Python, PyTorch, Flask.___
+  
+- [Front End](https://github.com/micknice/skin-scan-v2) - Front end for skin cancer detection SPA. - ___JavaScript, Vue.___
+  
+- [Back End](https://github.com/micknice/project-backend-v2) - Back end for skin cancer detection SPA. - ___JavaScript, Express, MySQL.___
+  
+- [Live Site](https://main.d2lr9qljwqxiia.amplifyapp.com/) - Back end for skin cancer detection SPA. - ___AWS.___
 
 ## Weight Training Tracker Mobile App - Full Stack - Solo Project - Dart
 
