@@ -15,29 +15,8 @@ https://github.com/micknice/micknice/assets/107580574/ba1f543e-b4b5-40a9-bb2d-c0
 
 - [Turn Based Battler](https://github.com/micknice/memeosphere) - Turn based battler with stat modifying card mechanics. - ___JavaScript, Next, React, MobX, Tailwind.___
 
-## AA Breakdown Simulator - Full Stack - Solo Project - JS/TS
-  
-- [Back End](https://github.com/micknice/AA_breakdown_simulator) - Simulation of automotive breakdowns, patrol allocation and patrol pathing. - ___JavaScipt, Bing Maps API, PostgreSQL, SocketIO.___
-  
-- [Front End](https://github.com/micknice/AA_breakdown_simulator) - Basic GUI for simulation showing pathing, patrol and breakdown details. - ___TypeScipt, Next, React, SocketIO.___
 
-https://github.com/micknice/micknice/assets/107580574/c3d00230-16bf-4304-95b5-92f7121ccb50
-
-## Drum Sample Classifier - Machine Learning - Solo Project - JS
-
-- [Drum Sample Classifier](https://github.com/micknice/drum-sample-classifier) - Featurization of drum samples via FFT and classification by linear model. - ___JavaScript.___
-
-## E-Commerce Site - Full Stack - Solo Project - Java/TS
-
-- [Front End](https://github.com/micknice/e-commerce-fe) - Front end for e-commerce site. - ___TypeScript, Next, React, Tailwind.___
-
-- [Back End](https://github.com/micknice/e-commerce-be) - Back end for e-commerce site. - ___Java, Spring Boot, Hibernate, PostgreSQL, JUnit.___
-
-## Instant Win Game - Front End - Solo Project - TS
-  
-- [Game of Chance](https://github.com/micknice/scratch-overflow) - Scratch card style instant win game themed around the Stack Overflow 2023 dev survey. - ___TypeScript, Next, React, Tailwind.___
- 
-- [Live Demo](https://singular-manatee-cfe23a.netlify.app/) - Live Demo of game. - ___Netlify.___
+https://github.com/micknice/micknice/assets/107580574/51156682-6a77-4693-a1d3-d91a968ad6f3
 
 ## Skin Cancer Detection App - Full Stack - Group Project - JS/Python
 
@@ -54,6 +33,30 @@ https://github.com/micknice/micknice/assets/107580574/c3d00230-16bf-4304-95b5-92
 ![Project Architecture](https://github.com/micknice/micknice/assets/107580574/f7f2a2bb-e03b-4bc7-8801-16df4153f840)
 
 
+## AA Breakdown Simulator - Full Stack - Solo Project - JS/TS
+  
+- [Back End](https://github.com/micknice/AA_breakdown_simulator) - Simulation of automotive breakdowns, patrol allocation and patrol pathing. - ___JavaScipt, Bing Maps API, PostgreSQL, SocketIO.___
+  
+- [Front End](https://github.com/micknice/AA_breakdown_simulator) - Basic GUI for simulation showing pathing, patrol and breakdown details. - ___TypeScipt, Next, React, SocketIO.___
+
+https://github.com/micknice/micknice/assets/107580574/c3d00230-16bf-4304-95b5-92f7121ccb50
+
+## Instant Win Game - Front End - Solo Project - TS
+  
+- [Game of Chance](https://github.com/micknice/scratch-overflow) - Scratch card style instant win game themed around the Stack Overflow 2023 dev survey. - ___TypeScript, Next, React, Tailwind.___
+ 
+- [Live Demo](https://singular-manatee-cfe23a.netlify.app/) - Live Demo of game. - ___Netlify.___
+
+## E-Commerce Site - Full Stack - Solo Project - Java/TS
+
+- [Front End](https://github.com/micknice/e-commerce-fe) - Front end for e-commerce site. - ___TypeScript, Next, React, Tailwind.___
+
+- [Back End](https://github.com/micknice/e-commerce-be) - Back end for e-commerce site. - ___Java, Spring Boot, Hibernate, PostgreSQL, JUnit.___
+
+## Drum Sample Classifier - Machine Learning - Solo Project - JS
+
+- [Drum Sample Classifier](https://github.com/micknice/drum-sample-classifier) - Featurization of drum samples via FFT and classification by linear model. - ___JavaScript.___
+
 ## Weight Training Tracker Mobile App - Full Stack - Solo Project - Dart
 
 - [Weight Training Tracker](https://github.com/micknice/any_percent_flutter_app) - Weight training session logger/tracker mobile app with data visualisation. - ___Dart, Flutter, Firebase, BLoC.___
@@ -61,6 +64,15 @@ https://github.com/micknice/micknice/assets/107580574/c3d00230-16bf-4304-95b5-92
 ## Natural Ventilation Calculator Mobile App - Full Stack - Solo Project Dart
   
 - [Natural Ventilation Calculator Mobile App](https://github.com/micknice/natural-ventilation-calculator-app) - Natural ventilation calculator mobile app.  - ___Dart, Flutter, BLoC.___
+
+
+
+
+
+
+
+
+
   
   
 
