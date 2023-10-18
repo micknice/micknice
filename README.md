@@ -1,7 +1,7 @@
 # Contents
 
 
-## News Site - Full Stack - Solo Project - JS - TDD
+## News Site - Full Stack - Solo Project - JS - TDD/AGILE/KANBAN
 
 - [Front End](https://github.com/micknice/the-tardigrade) - Front end for news and projects SPA with social features. - ___JavaScipt, Next, React, Tailwind.___
   
@@ -18,7 +18,7 @@ https://github.com/micknice/micknice/assets/107580574/ba1f543e-b4b5-40a9-bb2d-c0
 
 https://github.com/micknice/micknice/assets/107580574/51156682-6a77-4693-a1d3-d91a968ad6f3
 
-## Skin Cancer Detection App - Full Stack - Group Project - JS/Python
+## Skin Cancer Detection App - Full Stack - Group Project - JS/Python - AGILE/KANBAN
 
 - [PyTorch CNN Image Classifier](#pytorch-cnn-image-classifier) - Training loop for skin cancer classifier. - ___Python, PyTorch, HAM10000 dataset.___
 
@@ -68,7 +68,7 @@ https://github.com/micknice/micknice/assets/107580574/a2f84a29-fe32-4d74-9ead-36
 
 https://github.com/micknice/micknice/assets/107580574/a6e6e192-0001-49fd-8d5f-4c8d2b3ee041
 
-## Natural Ventilation Calculator Mobile App - Full Stack - Solo Project Dart
+## Natural Ventilation Calculator Mobile App - Full Stack - Solo Project - Dart
   
 - [Natural Ventilation Calculator Mobile App](https://github.com/micknice/natural-ventilation-calculator-app) - Natural ventilation calculator mobile app.  - ___Dart, Flutter, BLoC.___
 
