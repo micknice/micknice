@@ -11,13 +11,6 @@
 
 https://github.com/micknice/micknice/assets/107580574/ba1f543e-b4b5-40a9-bb2d-c03889310ae2
 
-## Battle Game - Full Stack - Solo Project - JS
-
-- [Turn Based Battler](https://github.com/micknice/memeosphere) - Turn based battler with stat modifying card mechanics. - ___JavaScript, Next, React, MobX, Tailwind.___
-
-
-https://github.com/micknice/micknice/assets/107580574/51156682-6a77-4693-a1d3-d91a968ad6f3
-
 ## Skin Cancer Detection App - Full Stack - Group Project - JS/Python - AGILE/KANBAN
 
 - [PyTorch CNN Image Classifier](#pytorch-cnn-image-classifier) - Training loop for skin cancer classifier. - ___Python, PyTorch, HAM10000 dataset.___
@@ -33,6 +26,12 @@ https://github.com/micknice/micknice/assets/107580574/51156682-6a77-4693-a1d3-d9
 https://github.com/micknice/micknice/assets/107580574/20326a75-ba15-4adc-b095-cc3e3e33f38b
 
 ![Project Architecture](https://github.com/micknice/micknice/assets/107580574/f7f2a2bb-e03b-4bc7-8801-16df4153f840)
+
+## Battle Game - Full Stack - Solo Project - JS
+
+- [Turn Based Battler](https://github.com/micknice/memeosphere) - Turn based battler with stat modifying card mechanics. - ___JavaScript, Next, React, MobX, Tailwind.___
+
+https://github.com/micknice/micknice/assets/107580574/51156682-6a77-4693-a1d3-d91a968ad6f3
 
 ## AA Breakdown Simulator - Full Stack - Solo Project - JS/TS
   
