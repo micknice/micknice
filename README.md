@@ -49,7 +49,7 @@ https://github.com/micknice/micknice/assets/107580574/51156682-6a77-4693-a1d3-d9
 
 https://github.com/micknice/micknice/assets/107580574/c3d00230-16bf-4304-95b5-92f7121ccb50
 
-## Instant Win Game - Front End/Game - Solo Project - TS
+## Instant Win Game - Front End/Game - Solo Project - TS 
   
 - [Game of Chance](https://github.com/micknice/scratch-overflow) - Scratch card style instant win game themed around the Stack Overflow 2023 dev survey. - ___TypeScript, Next, React, Tailwind.___
  
