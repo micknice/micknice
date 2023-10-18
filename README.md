@@ -27,13 +27,21 @@ https://github.com/micknice/micknice/assets/107580574/20326a75-ba15-4adc-b095-cc
 
 ![Project Architecture](https://github.com/micknice/micknice/assets/107580574/f7f2a2bb-e03b-4bc7-8801-16df4153f840)
 
-## Battle Game - Full Stack - Solo Project - JS
+## Weight Training Tracker Mobile App - Full Stack - Solo Project - Dart - TDD
+
+- [Weight Training Tracker](https://github.com/micknice/any_percent_flutter_app) - Weight training session logger/tracker mobile app with data visualisation. - ___Dart, Flutter, Firebase, BLoC.___
+  
+- [Prototype Back End](https://github.com/micknice/any_percent_backend) - Back end before migration to firebase. TDD. - ___JavaScript, Express, Jest, MongoDB.___
+
+https://github.com/micknice/micknice/assets/107580574/a6e6e192-0001-49fd-8d5f-4c8d2b3ee041
+
+## Battle Game - Full Stack/Game - Solo Project - JS
 
 - [Turn Based Battler](https://github.com/micknice/memeosphere) - Turn based battler with stat modifying card mechanics. - ___JavaScript, Next, React, MobX, Tailwind.___
 
 https://github.com/micknice/micknice/assets/107580574/51156682-6a77-4693-a1d3-d91a968ad6f3
 
-## AA Breakdown Simulator - Full Stack - Solo Project - JS/TS
+## AA Breakdown Simulator - Full Stack/Simulation - Solo Project - JS/TS
   
 - [Back End](https://github.com/micknice/AA_breakdown_simulator) - Simulation of automotive breakdowns, patrol allocation and patrol pathing. - ___JavaScipt, Bing Maps API, PostgreSQL, SocketIO.___
   
@@ -41,7 +49,7 @@ https://github.com/micknice/micknice/assets/107580574/51156682-6a77-4693-a1d3-d9
 
 https://github.com/micknice/micknice/assets/107580574/c3d00230-16bf-4304-95b5-92f7121ccb50
 
-## Instant Win Game - Front End - Solo Project - TS
+## Instant Win Game - Front End/Game - Solo Project - TS
   
 - [Game of Chance](https://github.com/micknice/scratch-overflow) - Scratch card style instant win game themed around the Stack Overflow 2023 dev survey. - ___TypeScript, Next, React, Tailwind.___
  
@@ -59,13 +67,7 @@ https://github.com/micknice/micknice/assets/107580574/a2f84a29-fe32-4d74-9ead-36
 
 - [Drum Sample Classifier](https://github.com/micknice/drum-sample-classifier) - Featurization of drum samples via FFT and classification by linear model. - ___JavaScript.___
 
-## Weight Training Tracker Mobile App - Full Stack - Solo Project - Dart - TDD
 
-- [Weight Training Tracker](https://github.com/micknice/any_percent_flutter_app) - Weight training session logger/tracker mobile app with data visualisation. - ___Dart, Flutter, Firebase, BLoC.___
-  
-- [Prototype Back End](https://github.com/micknice/any_percent_backend) - Back end before migration to firebase. TDD. - ___JavaScript, Express, Jest, MongoDB.___
-
-https://github.com/micknice/micknice/assets/107580574/a6e6e192-0001-49fd-8d5f-4c8d2b3ee041
 
 ## Natural Ventilation Calculator Mobile App - Full Stack - Solo Project - Dart
   
