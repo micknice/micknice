@@ -21,7 +21,7 @@ https://github.com/micknice/micknice/assets/107580574/ba1f543e-b4b5-40a9-bb2d-c0
   
 - [Back End](https://github.com/micknice/project-backend-v2) - Back end for skin cancer detection SPA. - ___JavaScript, Express, MySQL.___
   
-- [Live Site](https://main.d2lr9qljwqxiia.amplifyapp.com/) - Back end for skin cancer detection SPA. - ___AWS.___
+- [Live Site](https://main.d2lr9qljwqxiia.amplifyapp.com/) - Deployed site. - ___AWS.___
 
 https://github.com/micknice/micknice/assets/107580574/20326a75-ba15-4adc-b095-cc3e3e33f38b
 
