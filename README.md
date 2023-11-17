@@ -1,7 +1,7 @@
 # Contents
 
 
-## News Site - Full Stack - Solo Project - JS - TDD/AGILE/KANBAN
+## News Site - Full Stack - Solo Project - JS 
 
 - [Front End](https://github.com/micknice/the-tardigrade) - Front end for news and projects SPA with social features. - ___JavaScipt, Next, React, Tailwind.___
   
@@ -11,7 +11,7 @@
 
 https://github.com/micknice/micknice/assets/107580574/ba1f543e-b4b5-40a9-bb2d-c03889310ae2
 
-## Skin Cancer Detection App - Full Stack - Group Project - JS/Python - AGILE/KANBAN
+## Skin Cancer Detection App - Full Stack - Group Project - JS/Python 
 
 - [PyTorch CNN Image Classifier](#pytorch-cnn-image-classifier) - Training loop for skin cancer classifier. - ___Python, PyTorch, HAM10000 dataset.___
 
@@ -27,7 +27,7 @@ https://github.com/micknice/micknice/assets/107580574/20326a75-ba15-4adc-b095-cc
 
 ![Project Architecture](https://github.com/micknice/micknice/assets/107580574/f7f2a2bb-e03b-4bc7-8801-16df4153f840)
 
-## Weight Training Tracker Mobile App - Full Stack - Solo Project - Dart - TDD
+## Weight Training Tracker Mobile App - Full Stack - Solo Project - Dart 
 
 - [Weight Training Tracker](https://github.com/micknice/any_percent_flutter_app) - Weight training session logger/tracker mobile app with data visualisation. - ___Dart, Flutter, Firebase, BLoC.___
   
