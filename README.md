@@ -9,9 +9,7 @@
 - [Front End](https://github.com/micknice/e-commerce-fe) - Front end for e-commerce site. - ___TypeScript, Next, React, Tailwind.___
 
 - [Back End](https://github.com/micknice/e-commerce-be) - Back end for e-commerce site. - ___Java, Spring Boot, Hibernate, PostgreSQL, JUnit, Docker.___
-![Screenshot 2023-12-12 054619](https://github.com/micknice/micknice/assets/107580574/c4909a50-1a99-4524-ad38-8f58ed4bd86d)
 
-![Screenshot 2023-12-12 054444](https://github.com/micknice/micknice/assets/107580574/9d63f7cd-ace8-4cda-aa05-f640128f2575)
 
 ## News Site - Full Stack - Solo Project - JS 
 
