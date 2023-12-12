@@ -10,10 +10,8 @@
 
 - [Back End](https://github.com/micknice/e-commerce-be) - Back end for e-commerce site. - ___Java, Spring Boot, Hibernate, PostgreSQL, JUnit, Docker.___
 ![Screenshot 2023-12-12 054619](https://github.com/micknice/micknice/assets/107580574/c4909a50-1a99-4524-ad38-8f58ed4bd86d)
-![Screenshot 2023-12-12 054557](https://github.com/micknice/micknice/assets/107580574/963cd9e0-4cef-4c08-9105-7784dd131785)
-![Screenshot 2023-12-12 054540](https://github.com/micknice/micknice/assets/107580574/c95b5217-ba4e-47ca-a264-0dc24df684e2)
+
 ![Screenshot 2023-12-12 054444](https://github.com/micknice/micknice/assets/107580574/9d63f7cd-ace8-4cda-aa05-f640128f2575)
-![Screenshot 2023-12-12 054417](https://github.com/micknice/micknice/assets/107580574/356f5158-1238-4565-a1b5-b97d5abe135f)
 
 ## News Site - Full Stack - Solo Project - JS 
 
