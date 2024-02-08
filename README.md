@@ -4,7 +4,7 @@
 
   Ecommerce site inspired by mirafit.co.uk. Images, product descriptions, prices and reviews scraped with Puppeteer. Custom auth, SMTP email relay for verification and password reminder. Live update of inventory/cart contents.
 
-- [Live Demo](https://e-commerce-fe-micknice.vercel.app/) - Live Demo of site. - ___Vercel, AWS.___
+- [Live Demo](https://e-commerce-fe-micknice.vercel.app/) - Live Demo of site. - ___Vercel.___
   
 - [Front End](https://github.com/micknice/e-commerce-fe) - Front end for e-commerce site. - ___TypeScript, Next, React, Tailwind.___
 
